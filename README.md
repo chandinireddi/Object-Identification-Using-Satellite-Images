@@ -1,3 +1,3 @@
 # Object-Identification-Using-Satellite-Images
 The project of Object Identification using Satellite Images typically falls under the category of computer vision and image processing. Computer vision involves the development of algorithms and techniques to enable computers to understand and interpret visual information from images or videos. Object identification specifically focuses on identifying and recognizing objects or patterns within an image.
-In the context of satellite images, the project may involve tasks such as detecting and classifying specific objects (buildings, roads) or extracting meaningful information from the satellite imagery.
+In the context of satellite images, the project involves tasks such as detecting and classifying specific objects (buildings, roads) and extracting meaningful information from the satellite imagery.
